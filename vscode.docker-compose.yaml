@@ -5,4 +5,4 @@ services:
     build:
       context: .
       dockerfile: ./vscode.dockerfile
-    image: nim-dev
+    image: nim-dev:1.6.2
